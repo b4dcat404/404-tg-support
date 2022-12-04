@@ -2,12 +2,12 @@
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.9-blue.svg?style=plastic" alt="Python version"></a>
-    <a href="https://github.com/fabston/Telegram-Support-Bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/fabston/Telegram-Support-Bot?style=plastic" alt="GitHub license"></a>
-    <a href="https://github.com/fabston/Telegram-Support-Bot/issues"><img src="https://img.shields.io/github/issues/fabston/Telegram-Support-Bot?style=plastic" alt="GitHub issues"></a>
-    <a href="https://github.com/fabston/Telegram-Support-Bot/pulls"><img src="https://img.shields.io/github/issues-pr/fabston/Telegram-Support-Bot?style=plastic" alt="GitHub pull requests"></a>
-    <br /><a href="https://github.com/fabston/Telegram-Support-Bot/stargazers"><img src="https://img.shields.io/github/stars/fabston/Telegram-Support-Bot?style=social" alt="GitHub stars"></a>
-    <a href="https://github.com/fabston/Telegram-Support-Bot/network/members"><img src="https://img.shields.io/github/forks/fabston/Telegram-Support-Bot?style=social" alt="GitHub forks"></a>
-    <a href="https://github.com/fabston/Telegram-Support-Bot/watchers"><img src="https://img.shields.io/github/watchers/fabston/Telegram-Support-Bot?style=social" alt="GitHub watchers"></a>
+    <a href="https://github.com/fabston/Telegram-Support-Bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/b4dcat404/404-tg-support?style=plastic" alt="GitHub license"></a>
+    <a href="https://github.com/fabston/Telegram-Support-Bot/issues"><img src="https://img.shields.io/github/issues/b4dcat404/404-tg-support?style=plastic" alt="GitHub issues"></a>
+    <a href="https://github.com/fabston/Telegram-Support-Bot/pulls"><img src="https://img.shields.io/github/issues-pr/b4dcat404/404-tg-support?style=plastic" alt="GitHub pull requests"></a>
+    <br /><a href="https://github.com/fabston/Telegram-Support-Bot/stargazers"><img src="https://img.shields.io/github/stars/b4dcat404/404-tg-support?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/fabston/Telegram-Support-Bot/network/members"><img src="https://img.shields.io/github/forks/b4dcat404/404-tg-support?style=social" alt="GitHub forks"></a>
+    <a href="https://github.com/fabston/Telegram-Support-Bot/watchers"><img src="https://img.shields.io/github/watchers/b4dcat404/404-tg-support?style=social" alt="GitHub watchers"></a>
 </p>
 
 <p align="center">
@@ -27,15 +27,15 @@ The **Telegram Support Bot** 📬 helps you to manage and organize your support 
 
 ## Features
 - **Text**, **Photos**, **Documents** and **Stickers** are being forwarded
-- Spam protection (sensitivity can be set in [`config.py`](https://github.com/fabston/Telegram-Support-Bot/blob/master/config.py))
-- Bad words filter (using regex, words can be set in [`config.py`](https://github.com/fabston/Telegram-Support-Bot/blob/master/config.py))
+- Spam protection (sensitivity can be set in [`config.py`](https://github.com/b4dcat404/404-tg-support/blob/master/config.py))
+- Bad words filter (using regex, words can be set in [`config.py`](https://github.com/b4dcat404/404-tg-support/blob/master/config.py))
 - List all open/unanswered tickets (time passed since ticket opened is being shown as well)
 - Ban / Un-ban users (via reply or user id). User won't be able to interact with the bot anymore
 - List banned users, with last interaction point
 - Customisable FAQ text
 - Detect the users language and display it as an emoji
 
-> 💡 Got a feature idea? Open an [issue](https://github.com/fabston/Telegram-Support-Bot/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
+> 💡 Got a feature idea? Open an [issue](https://github.com/b4dcat404/404-tg-support/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
 
 ### Staff commands
 | Command | Description |
@@ -64,7 +64,7 @@ The **Telegram Support Bot** 📬 helps you to manage and organize your support 
 1. Create your virtual environment `python3 -m venv Telegram-Support-Bot`
 1. Activate it `source Telegram-Support-Bot/bin/activate && cd Telegram-Support-Bot`
 1. Install all requirements `pip install -r requirements.txt`
-1. Edit and update [`config.py`](https://github.com/fabston/Telegram-Support-Bot/blob/master/config.py)
+1. Edit and update [`config.py`](https://github.com/b4dcat404/404-tg-support/blob/master/config.py)
 1. Run the bot `python main.py`
 
 
@@ -72,10 +72,5 @@ The **Telegram Support Bot** 📬 helps you to manage and organize your support 
 ![Telegram Support Bot](https://raw.githubusercontent.com/fabston/Telegram-Support-Bot/master/assets/about.jpg)
 
 ## How can I help?
-All kinds of contributions are welcome 🙌! The most basic way to show your support is to `⭐️ star` the project, or raise [`🐞 issues`](https://github.com/fabston/Telegram-Support-Bot/issues/new/choose). 
+All kinds of contributions are welcome 🙌! The most basic way to show your support is to `⭐️ star` the project, or raise [`🐞 issues`](https://github.com/b4dcat404/404-tg-support/issues/new/choose). 
 
-***
-
-<p align="center">
-    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/Telegram-Airdrop-Bot/blob/main/assets/bmac.png?raw=true" width=200px></a>
-</p>
