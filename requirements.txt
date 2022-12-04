@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pymysql
+arrow
+cryptography
