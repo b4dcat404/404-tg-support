@@ -138,7 +138,7 @@ def time_zone():
 
 
 def repo():
-    msg = '\n\n[» Source Code](github.com/vsnz/Telegram-Support-Bot)'
+    msg = '\n\n[» Source Code](github.com/b4dcat404/404-tg-support)'
     return msg
 
 

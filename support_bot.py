@@ -267,4 +267,4 @@ def echo_all(message):
 
 
 print("Telegram Support Bot started...")
-bot.polling()
+bot.polling(none_stop=True, interval=0)
